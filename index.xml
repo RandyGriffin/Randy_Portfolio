@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>QA/Programming Portfolio on Randy Griffin</title>
+    <link>https://randygriffin.github.io/Randy_Portfolio/</link>
+    <description>Recent content in QA/Programming Portfolio on Randy Griffin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 Sep 2022 11:13:32 -0400</lastBuildDate><atom:link href="https://randygriffin.github.io/Randy_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>UI Automation</title>
+      <link>https://randygriffin.github.io/Randy_Portfolio/post/project-3/</link>
+      <pubDate>Sun, 11 Sep 2022 11:13:32 -0400</pubDate>
+      
+      <guid>https://randygriffin.github.io/Randy_Portfolio/post/project-3/</guid>
+      <description>Developed a hybrid test framework using Selenium and Java for browser automation Increased Java End-To-End test code coverage to 80% Performed Regression testing after releasing new features Created automated script for REST API testing using Rest Assured framework. Tracked and reported bugs using Jira Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Mobile app testing using Appium</title>
+      <link>https://randygriffin.github.io/Randy_Portfolio/post/project-5/</link>
+      <pubDate>Wed, 03 Aug 2022 11:13:32 -0400</pubDate>
+      
+      <guid>https://randygriffin.github.io/Randy_Portfolio/post/project-5/</guid>
+      <description>Developed automated test scripts to simulate the interactions of multiple users within a software application Performed accessibility testing for Android and iOS applications as per American Disability Act. Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Stock Screener</title>
+      <link>https://randygriffin.github.io/Randy_Portfolio/post/project-4/</link>
+      <pubDate>Wed, 03 Aug 2022 11:13:32 -0400</pubDate>
+      
+      <guid>https://randygriffin.github.io/Randy_Portfolio/post/project-4/</guid>
+      <description>Created a tool that allows the user to enter stock tickers and retrieve the latest data from yahoo finance. Stocks can be filtered by moving average, P/E ratio, and more. Currently in beta, and will be updated with new features in the future. Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://randygriffin.github.io/Randy_Portfolio/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://randygriffin.github.io/Randy_Portfolio/about/</guid>
+      <description>Programming and Software testing are my passions. My name is Randy Griffin and I am pursing a career in Software Testing or related fields. I am graduating from Columbus State University this year with a degree in Computer Science. I have always enjoyed testing different software and technology ever since taking a QA course in school. Within the next few years, I will have the knowledge to be successful in my field and teach others all about Quality Assurance.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://randygriffin.github.io/Randy_Portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://randygriffin.github.io/Randy_Portfolio/contact/</guid>
+      <description>Follow me on these social media platforms.
+Platform URL LinkedIn: https://www.linkedin.com/in/randy-j-griffin/ GitHub: https://github.com/RandyGriffin Twitter: https://twitter.com/TechandStocks </description>
+    </item>
+    
+  </channel>
+</rss>
